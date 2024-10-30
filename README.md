@@ -8,7 +8,7 @@ DecaSync Procurement App
 * npm run dev
 * Since its a Monorepo cd to node folder
 * cd node
-* cd src
 * npm install
+* cd src
 * npx nodemon index
 * (env is also pushed for db connection string)
